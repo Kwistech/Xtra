@@ -1,0 +1,9 @@
+[submodule "78621fbcaaae032e1199"]
+	path = 99-bugs-song
+	url = https://gist.github.com/78621fbcaaae032e1199.git
+[submodule "0b234f309f0d8b95ce0e"]
+	path = writing-good-commit-msgs
+	url = https://gist.github.com/0b234f309f0d8b95ce0e.git
+[submodule "5545653dfc4e9efde687"]
+	path = metronome
+	url = https://gist.github.com/5545653dfc4e9efde687.git
