@@ -7,3 +7,6 @@
 [submodule "5545653dfc4e9efde687"]
 	path = metronome
 	url = https://gist.github.com/5545653dfc4e9efde687.git
+[submodule "017317a16901ea009d06"]
+	path = sequence-addition-calc
+	url = https://gist.github.com/017317a16901ea009d06.git
