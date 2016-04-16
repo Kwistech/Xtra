@@ -10,3 +10,6 @@
 [submodule "017317a16901ea009d06"]
 	path = sequence-addition-calc
 	url = https://gist.github.com/017317a16901ea009d06.git
+[submodule "c60171c08b6f128b62bdb00e83b49b1f"]
+	path = game-hangman
+	url = https://gist.github.com/c60171c08b6f128b62bdb00e83b49b1f.git
