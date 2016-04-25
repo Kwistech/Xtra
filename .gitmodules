@@ -13,3 +13,6 @@
 [submodule "c60171c08b6f128b62bdb00e83b49b1f"]
 	path = game-hangman
 	url = https://gist.github.com/c60171c08b6f128b62bdb00e83b49b1f.git
+[submodule "727d6d3bc61ff62c485e2d2cad9f0283"]
+	path = 727d6d3bc61ff62c485e2d2cad9f0283
+	url = https://gist.github.com/727d6d3bc61ff62c485e2d2cad9f0283.git
