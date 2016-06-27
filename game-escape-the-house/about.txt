@@ -1,0 +1,9 @@
+                        CHOOSE YOUR OWN ADVENTURE 1 - GAME BY JOHNATHON A. KWISSES
+
+This is a simple game made up of 7 different rooms and two outcomes; win/lose.
+The player starts in room 1 with a couple options presented to them. Each option leads to a different part of the game.
+
+OBJECTIVE: Get out of the house alive.
+
+PROGRAMMERS NOTES: All of the calls are functions. Inventory either be called or displayed all the time. Console
+display should be 10 lines."""
