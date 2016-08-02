@@ -16,3 +16,6 @@
 [submodule "727d6d3bc61ff62c485e2d2cad9f0283"]
 	path = calc_tkinter
 	url = https://gist.github.com/727d6d3bc61ff62c485e2d2cad9f0283.git
+[submodule "8e05b655a6ffb73ed0af1c1567e67a1c"]
+	path = 8e05b655a6ffb73ed0af1c1567e67a1c
+	url = https://gist.github.com/8e05b655a6ffb73ed0af1c1567e67a1c.git
