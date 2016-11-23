@@ -22,3 +22,6 @@
 [submodule "e427fe24ccd89e4dabd8265418694577"]
 	path = TicTacToe
 	url = https://gist.github.com/e427fe24ccd89e4dabd8265418694577.git
+[submodule "d0cc7cc083e15162f04eb6e9145e6f47"]
+	path = Dr.Nim
+	url = https://gist.github.com/d0cc7cc083e15162f04eb6e9145e6f47.git
