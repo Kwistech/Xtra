@@ -25,3 +25,6 @@
 [submodule "d0cc7cc083e15162f04eb6e9145e6f47"]
 	path = Dr.Nim
 	url = https://gist.github.com/d0cc7cc083e15162f04eb6e9145e6f47.git
+[submodule "040afbdbcb928263e7f7ee22b7252ed9"]
+	path = Slither
+	url = https://gist.github.com/040afbdbcb928263e7f7ee22b7252ed9.git
