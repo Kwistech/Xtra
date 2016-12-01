@@ -28,3 +28,6 @@
 [submodule "040afbdbcb928263e7f7ee22b7252ed9"]
 	path = Slither
 	url = https://gist.github.com/040afbdbcb928263e7f7ee22b7252ed9.git
+[submodule "37e3f693e74bcce1890d93c6c1ed748f"]
+	path = ChatRoom
+	url = https://gist.github.com/37e3f693e74bcce1890d93c6c1ed748f.git
