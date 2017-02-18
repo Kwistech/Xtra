@@ -37,3 +37,6 @@
 [submodule "Paint"]
 	path = Paint
 	url = https://gist.github.com/aaf40b08365cfa98ff583f09617941ca.git
+[submodule "minesweeper"]
+	path = minesweeper
+	url = https://gist.github.com/1dde839c9ab6625e31aa0b0f5837bec7.git
