@@ -43,3 +43,6 @@
 [submodule "247d5c576edff6d08db43db831846a3e"]
 	path = BubbleSort
 	url = https://gist.github.com/247d5c576edff6d08db43db831846a3e.git
+[submodule "PhotoVideo"]
+	path = PhotoVideo
+	url = https://gist.github.com/7d7b22a931c8dfc60eed9714ee8c7f53.git
