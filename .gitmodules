@@ -46,3 +46,6 @@
 [submodule "PhotoVideo"]
 	path = PhotoVideo
 	url = https://gist.github.com/7d7b22a931c8dfc60eed9714ee8c7f53.git
+[submodule "string_permutation"]
+	path = string_permutation
+	url = https://gist.github.com/569ba36ee3cfea9324ca573ffcff2e17.git
