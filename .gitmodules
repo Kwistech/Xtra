@@ -49,3 +49,6 @@
 [submodule "string_permutation"]
 	path = string_permutation
 	url = https://gist.github.com/569ba36ee3cfea9324ca573ffcff2e17.git
+[submodule "merge_sort"]
+	path = merge_sort
+	url = https://gist.github.com/66eee988fb03cd16681499ebd0d13dca.git
